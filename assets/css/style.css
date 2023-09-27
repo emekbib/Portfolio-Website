@@ -189,6 +189,7 @@ header .navbar ul li a:hover {
 }
 .home #particles-js {
   position: absolute;
+  background-color: skyblue;
   top: 0;
   left: 0;
   height: 100%;
@@ -938,7 +939,7 @@ header .navbar ul li a:hover {
 .contact .container {
   max-width: 1050px;
   width: 100%;
-  background: #fff;
+  background: #fdb44d;
   border-radius: 1.5rem;
   margin: 2rem 5rem;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
@@ -951,7 +952,7 @@ header .navbar ul li a:hover {
 }
 .contact .content .image-box {
   max-width: 60%;
-  margin-left: 4rem;
+  margin-left: 10rem;
 }
 .contact .content .image-box img {
   width: 100%;
