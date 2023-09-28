@@ -56,6 +56,10 @@
         "icon": "https://img.icons8.com/fluency/48/typescript--v1.png"
     },
     {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/django.png"
+    },
+    {
         "name": "Swift",
         "icon": "https://img.icons8.com/color/48/swift.png"
     },
