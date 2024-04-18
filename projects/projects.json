@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mulat Hadgu Foundation",
+    "desc": "Fully fledged angular app made using different design patterns. Built using Angular, Typescript, Node, AWS, HTML, SCSS.",
+    "image": "mulathadgufoundationimage",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.mulathadgufoundation.org/home",
+      "code": "https://github.com/emekbib/MulatHadguFoundation"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://estephanos-mekbib.netlify.app/",
+      "code": "https://github.com/emekbib/Portfolio-Website"
+    }
+  }
+]
