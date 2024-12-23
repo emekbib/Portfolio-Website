@@ -78,7 +78,7 @@ var typed = new Typed(".typing-text", {
     "Full Stack Development",
     "BackEnd Development",
     ".NET",
-    "Web & Application Development",
+    "Web &amp; Application Development",
     "Database",
     "Cloud Architecture",
     "Angular & React",
